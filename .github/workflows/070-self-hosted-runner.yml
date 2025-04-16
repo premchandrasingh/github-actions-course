@@ -18,6 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
+    # Doc Ref (Prem) - https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners
     runs-on: win11-laptop # ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
