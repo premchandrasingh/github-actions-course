@@ -1,4 +1,5 @@
 # https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-azure
+# ref (prem) - /docs/Azure+Workload+Identity+with+Github+Actions+-+OIDC.pdf
   name: 090-oidc-azure
   on:
     push:
